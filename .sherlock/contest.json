@@ -1,14 +1,14 @@
 {
-  "title": "Aave",
-  "starts_at": "2023-01-09 15:00",
-  "ends_at": "2023-01-12 15:00",
-  "judging_ends_at": "2023-01-15 15:00",
-  "prize_pool": "10000",
-  "lead_senior_auditor_fixed_pay": "4000",
-  "short_description": "Aave is..",
-  "sponsor": "Aave",
-  "github_team": "aave",
-  "lines_of_code": "~321",
+  "title": "OpenQ",
+  "starts_at": "2023-02-01 15:00",
+  "ends_at": "2023-02-15 15:00",
+  "judging_ends_at": "2023-02-18 15:00",
+  "prize_pool": "50000",
+  "lead_senior_auditor_fixed_pay": "20000",
+  "short_description": "OpenQ provides a codebase with the world's most intuitive Web3-powered toolkit for discovering, managing, and incentivizing software engineers, anywhere on planet Earth.",
+  "sponsor": "openq",
+  "github_team": "openq",
+  "lines_of_code": "1844",
   "private": false,
-  "lead_senior_auditor_handle": "WATCHPUG"
+  "lead_senior_auditor_handle": null
 }
